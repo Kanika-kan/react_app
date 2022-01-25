@@ -1,0 +1,29 @@
+.weatherBg{
+  background-image: url("./images/bg.jpg");
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+  
+}
+.heading{
+  text-align: center;
+  color: rgb(8, 36, 61);
+  
+}
+.inputbox{
+  align-items: center;
+  justify-content: space-around;
+  padding: 5px 70px 5px 70px;
+
+}
+.boton{
+ align-items: center;
+ padding: 5px 70px 5px 70px!important;
+}
+.iconimg{
+  max-width: 75px;
+  max-height: 75px;
+}
+.imp{
+  max-height:600px;
+}
